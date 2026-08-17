@@ -2,95 +2,65 @@
 
 # 👨‍💻 Aman Kumar
 
-### MCA Student • Aspiring Software Developer
-
-*Passionate about coding, problem solving, and building real-world projects.* 🚀
+### MCA Student | Aspiring Software Developer
 
 </div>
 
+Passionate about coding, problem solving and building  
+real-world projects that create impact. 🚀
+
+🎓 **MCA Student**
+
+🧠 **Learning DSA, System Design & Backend Development**
+
+💡 **Love turning ideas into clean and efficient code**
+
+🎯 **Focused on solving problems and continuous improvement**
+
+☕ **Code | Coffee | Consistency**
+
 ---
 
-### 🎓 About Me
+### 💻 Tech Stack:
 
-* 🎓 MCA Student
-* 🧠 Currently learning **Data Structures & Algorithms**
-* 💻 Improving my programming and problem-solving skills
-* 🚀 Building projects and exploring new technologies
-* ☕ Code • Coffee • Consistency
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-**Currently focusing on:**
-`DSA` • `Problem Solving` • `C` • `Python` • `Git/GitHub`
+---
+
+### 🎯 Currently:
+
+- Solving problems on **LeetCode**
+- Building projects and learning new technologies
 
 ---
 
-### 🎯 Currently
+### 💡 Motto:
 
-* 🔥 Solving problems on **LeetCode**
-* 📚 Strengthening DSA fundamentals
-* 🛠️ Building projects
-* 🌱 Learning new technologies
+> **"Code. Learn. Improve. Repeat."**
 
 ---
 
-### 📊 GitHub Stats
+### 🔗 Connect:
 
-<div align="center">
+<p>
+  <a href="https://www.linkedin.com/in/aman-kumar-nitrr/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aman%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=amanxcode-glitch&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <a href="mailto:amank20505@gmail.com">
+    <img src="https://img.shields.io/badge/Email-amank20505%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanxcode-glitch&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
-
-### 🧩 Problem Solving
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/amanxcode?theme=dark&font=Baloo%202" width="500"/>
-
-</div>
-
----
-
-### 💡 Motto
-
-> **Code. Learn. Improve. Repeat.**
-
----
-
-### 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/amanxcode-glitch">
-  <img src="https://img.shields.io/badge/GitHub-amanxcode--glitch-181717?style=for-the-badge&logo=github" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Let's build something great. 🚀**
-
-</div>
+  <a href="https://leetcode.com/u/AmanBitwise/">
+    <img src="https://img.shields.io/badge/LeetCode-AmanBitwise-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
