@@ -1,66 +1,46 @@
-<div align="center">
-
-# 👨‍💻 Aman Kumar
-
+# <span style="color: #388bfd;">Aman Kumar</span>
 ### MCA Student | Aspiring Software Developer
-
-</div>
 
 Passionate about coding, problem solving and building  
 real-world projects that create impact. 🚀
 
-🎓 **MCA Student**
-
-🧠 **Learning DSA, System Design & Backend Development**
-
-💡 **Love turning ideas into clean and efficient code**
-
-🎯 **Focused on solving problems and continuous improvement**
-
-☕ **Code | Coffee | Consistency**
+🎓 &nbsp; MCA Student  
+🧠 &nbsp; Learning DSA, System Design & Backend Development  
+💡 &nbsp; Love turning ideas into clean and efficient code  
+🎯 &nbsp; Focused on solving problems and continuous improvement  
+☕ &nbsp; Code &nbsp;|&nbsp; Coffee &nbsp;|&nbsp; Consistency  
 
 ---
 
-### 💻 Tech Stack:
+### <span style="color: #388bfd;">💻 Tech Stack:</span>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <br/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ---
 
-### 🎯 Currently:
+### <span style="color: #388bfd;">🎯 Currently:</span>
 
-- Solving problems on **LeetCode**
-- Building projects and learning new technologies
-
----
-
-### 💡 Motto:
-
-> **"Code. Learn. Improve. Repeat."**
+* Solving problems on [LeetCode](https://leetcode.com/u/AmanBitwise/)
+* Building projects and learning new technologies
 
 ---
 
-### 🔗 Connect:
+### <span style="color: #388bfd;">❝ Motto:</span>
 
-<p>
-  <a href="https://www.linkedin.com/in/aman-kumar-nitrr/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aman%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+> “Code. Learn. Improve. Repeat.”
 
-  <a href="mailto:amank20505@gmail.com">
-    <img src="https://img.shields.io/badge/Email-amank20505%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+---
 
-  <a href="https://leetcode.com/u/AmanBitwise/">
-    <img src="https://img.shields.io/badge/LeetCode-AmanBitwise-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
+### <span style="color: #388bfd;">🔗 Connect:</span>
+
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24" alt="LinkedIn" />](https://www.linkedin.com/in/aman-kumar-nitrr/) &nbsp;|&nbsp; [<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="24" alt="Email" />](mailto:amank20505@gmail.com) &nbsp;|&nbsp; [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="24" alt="LeetCode" />](https://leetcode.com/u/AmanBitwise/)
