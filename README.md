@@ -8,7 +8,7 @@ real-world projects that create impact. 🚀
 🧠 &nbsp; Learning DSA, System Design & Backend Development  
 💡 &nbsp; Love turning ideas into clean and efficient code  
 🎯 &nbsp; Focused on solving problems and continuous improvement  
-☕ &nbsp; Code &nbsp;|&nbsp; Coffee &nbsp;|&nbsp; Consistency  
+☕ &nbsp; Code &nbsp;|&nbsp; chai &nbsp;|&nbsp; Consistency  
 
 ---
 
@@ -43,4 +43,4 @@ real-world projects that create impact. 🚀
 
 ### <span style="color: #388bfd;">🔗 Connect:</span>
 
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24" alt="LinkedIn" />](https://www.linkedin.com/in/aman-kumar-nitrr/) &nbsp;|&nbsp; [<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="24" alt="Email" />](mailto:amank20505@gmail.com) &nbsp;|&nbsp; [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="24" alt="LeetCode" />](https://leetcode.com/u/AmanBitwise/)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24" alt="LinkedIn" />](https://www.linkedin.com/in/aman-kumar-nitrr/) &nbsp;|&nbsp; [<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="24" alt="Email" />](mailto:amank20505@gmail.com)
